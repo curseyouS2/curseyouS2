@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=curseyouS2&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/curseyouS2?pet-id=785756420025965264"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <!--
 **curseyouS2/curseyouS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
