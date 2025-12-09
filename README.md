@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings.
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=curseyouS2&utm_content=line">
   <img
