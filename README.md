@@ -23,11 +23,5 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=curseyouS2&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curseyouS2&layout=compact&theme=tokyonight" height="160" />
-
----
-
-### 🏆 Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=curseyouS2&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://streak-stats.demolab.com?user=curseyouS2&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curseyouS2&layout=compact&theme=tokyonight&hide_border=true" height="160" />
